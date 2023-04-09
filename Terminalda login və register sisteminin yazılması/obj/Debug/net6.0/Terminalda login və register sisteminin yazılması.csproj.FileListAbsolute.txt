@@ -1,0 +1,15 @@
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\bin\Debug\net6.0\Terminalda login və register sisteminin yazılması.exe
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\bin\Debug\net6.0\Terminalda login və register sisteminin yazılması.deps.json
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\bin\Debug\net6.0\Terminalda login və register sisteminin yazılması.runtimeconfig.json
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\bin\Debug\net6.0\Terminalda login və register sisteminin yazılması.dll
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\bin\Debug\net6.0\Terminalda login və register sisteminin yazılması.pdb
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.csproj.AssemblyReference.cache
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.AssemblyInfoInputs.cache
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.AssemblyInfo.cs
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.csproj.CoreCompileInputs.cache
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.dll
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\refint\Terminalda login və register sisteminin yazılması.dll
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.pdb
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\Terminalda login və register sisteminin yazılması.genruntimeconfig.cache
+C:\Users\SAHIL\Desktop\Terminalda login və register sisteminin yazılması\Terminalda login və register sisteminin yazılması\obj\Debug\net6.0\ref\Terminalda login və register sisteminin yazılması.dll
